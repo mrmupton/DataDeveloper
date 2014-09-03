@@ -1,0 +1,16 @@
+{
+    "name": "upton-wd/data-developer",
+    "description": "Description of project DataDeveloper.",
+    "authors": [
+        {
+            "name": "Michael Upton",
+            "email": "mrmupton@gmail.com"
+        }
+    ],
+    "respositories": [
+        "type":"vcs",
+        "url":"https://github.com/mrmupton/DataDeveloper"
+    ]
+    "require": {
+    }
+}
